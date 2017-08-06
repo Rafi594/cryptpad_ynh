@@ -3,9 +3,8 @@ Cryptad for Yunohost
 
 [![Install Cryptpad with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=cryptpad)
 
+**Shipped version:** 1.12.0
 
-## Demo
-https://cryptpad.fr/
 
 ## Known limitations / Limitations connues
 - Installation possible only on a domain root (Cryptpad limitation)
