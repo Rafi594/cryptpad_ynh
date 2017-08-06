@@ -5,8 +5,6 @@ Cryptad for Yunohost
 
 **Shipped version:** 1.12.0
 
-## Demo
-https://cryptpad.fr/
 
 ## Known limitations / Limitations connues
 - Installation possible only on a domain root (Cryptpad limitation)
